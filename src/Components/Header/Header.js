@@ -28,8 +28,8 @@ function Header() {
         <HeaderOption Icon={ChatIcon} title='Messaging' />
         <HeaderOption Icon={NotificationsIcon} title='Notifications' />
         <HeaderOption
-          avatar='https://kingsleyatuba.com/wp-content/uploads/2021/05/mee-300x300.jpeg'
-          title=''
+          avatar='https://avatars.githubusercontent.com/u/71225358?v=4'
+          title='Me'
         />
       </div>
     </div>
